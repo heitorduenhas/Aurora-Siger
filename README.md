@@ -1,4 +1,4 @@
-# Aurora-Siger
+# Aurora-Siger - Decolagem
 
 ## O que é?:
 A atividade Aurora-Siger é um projeto de simulação de uma missão espacial rumo a Marte. 
